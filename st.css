@@ -1,0 +1,26 @@
+.shape{
+    width: 200px;
+    background-color: darkgrey;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    outline: 10px solid black;
+    display: inline-block;
+    margin-left: 20px;  
+    font-family: sans-serif;
+    font-size: large;
+}
+
+.shape-shape-1{
+    border: 10px solid red;
+}
+.shape-shape-2{
+    border-width: 10px;
+    border-color:blue green;
+    border-style: solid;
+}
+.shape-shape-3{
+    border-style:dashed;
+    border-width: 10px;
+    border-color:red green blue yellow;
+}
